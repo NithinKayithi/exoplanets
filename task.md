@@ -6,7 +6,7 @@ choice, and also understand your intuition/experience with data presentation.
 
 ### You will have to use NASA’s API to fetch the data:
 (https://exoplanetarchive.ipac.caltech.edu/cgi-bin/nstedAPI/nph-nstedAPI?table=cumulative&format=json)
-There is a lot of data so you will need to use virtualization. Please take a look at this library
+There is a lot of data so you will need to use `virtualization`. Please take a look at this library
 and examples: (https://react-window.now.sh/#/examples/grid/fixed-size)
 
 ### Here are the columns a user might be interested in:
